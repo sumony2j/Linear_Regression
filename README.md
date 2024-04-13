@@ -135,9 +135,11 @@ cd Linear_Regression
 pip install -r requirements.txt
 ```
 
-###  Running Linear_Regression
+###  Running any project of Linear_Regression
 
 Use the following command to run Linear_Regression:
+
+Navigate to any of the directory and run the Jupyter notebooks to explore linear regression.
 
 ```sh
 jupyter nbconvert --execute notebook.ipynb
